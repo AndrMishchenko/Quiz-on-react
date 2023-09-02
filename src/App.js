@@ -112,7 +112,7 @@ function App() {
           )}
 
           {boxQuiz && secondPage &&(
-            <p>щорщлщ</p>
+            <p>щорщлщsdfsdfsdfsd</p>
           )}
         
 
